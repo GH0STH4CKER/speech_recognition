@@ -21,5 +21,8 @@ Linux</br>
 <h2>Clonning and Rnning</h2>
 
 ```git clone https://github.com/GH0STH4CKER/speech_recognition.git```
+<br>
 ```cd speech_recognition```
+<br>
 ```python Speech_Recognition.py```
+<br>
