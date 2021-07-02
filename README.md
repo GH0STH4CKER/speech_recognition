@@ -2,7 +2,7 @@
 
 
 <h2>Installing Required Modules</h2>
-```pip install SpeechRecognition```</br>
+'''pip install SpeechRecognition'''br>
 ```pip install PyAudio```</br>
 </br></br>
 If error occur when installing pyaudio :
