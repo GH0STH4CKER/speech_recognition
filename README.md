@@ -18,7 +18,7 @@ If error occurs when installing pyaudio :
 <b>Linux</b></br>
 ```apt-get install python-pyaudio```
 </br>
-</br></br>
+
 <h2>Clonning and Rnning</h2>
 
 ```git clone https://github.com/GH0STH4CKER/speech_recognition.git```
