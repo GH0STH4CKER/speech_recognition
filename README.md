@@ -7,14 +7,15 @@
 <br>
 ```pip install PyAudio```
 </br></br>
-If error occur when installing pyaudio :
-Windows
+If error occurs when installing pyaudio :
+</br>
+<b>Windows</b>
 </br> 
 ```pip install pipwin```
 </br>
 ```pipwin install PyAudio```
 </br></br>
-Linux</br>
+<b>Linux</b></br>
 ```apt-get install python-pyaudio```
 </br>
 </br></br>
