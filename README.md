@@ -6,10 +6,10 @@
 ```pip install PyAudio```</br>
 </br></br>
 If error occur when installing pyaudio :
-*Windows 
+Windows</br> 
 ```pip install pipwin```</br>
 ```pipwin install PyAudio```</br></br>
-*Linux
+Linux</br>
 ```apt-get install python-pyaudio```</br>
 </br></br>
 <h2>Clonning and Rnning</h2>
